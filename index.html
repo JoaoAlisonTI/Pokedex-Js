@@ -12,6 +12,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
     <!--Css-->
     <link rel="stylesheet" href="./css/global.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="./css/pokedex.css" type="text/css" media="all" />
     
     <title>Pokédex</title>
     
@@ -19,8 +20,8 @@
   <body>
     <section class="content">
       <h1>Pokédex</h1>
-      
-      <ol class="pokemons">
+      <ol id="pokemonsList" class="pokemons">
+        
         <li class="pokemon">
           <span class="number">#001</span>
           <span class="name">Bulbasaur</span>
@@ -34,9 +35,10 @@
             <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" alt="Bulbasaur" />
           </div>
         </li>
+        
       </ol>
     </section>
-    
+    <script src="./js/poke-api.js" type="text/javascript" charset="utf-8"></script>
     <script src="./js/main.js" type="text/javascript" charset="utf-8"></script>
   </body>
 </html>
