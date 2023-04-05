@@ -7,15 +7,22 @@ body {
 }
 .content {
   width: 100vw; 
-  height: 100vh; 
   padding: 1rem; 
-  background-color: #fff;
-} 
-@media screen and (min-width: 992px) {
+  background-color: #1a1831;
+}
+.logo {
+  height: 100px;
+  width: 200px;
+}
+.pokeball {
+  height: 23px;
+  width: 23px;
+}
+@media screen and (min-width: 900px) {
   .content { 
-    max-width: 992px; 
+    max-width: 900px; 
     height: auto; 
     margin: 1rem auto; 
     border-radius: 1rem; 
-   } 
+   }
 }

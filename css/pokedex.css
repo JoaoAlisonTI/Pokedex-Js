@@ -68,7 +68,6 @@
   margin: .3rem;
   padding: 1rem;
   border-radius: 1rem;
-  /*background-color: #49d0b0;*/
   color: #fff;
   width: 9.375rem;
 }
@@ -120,9 +119,11 @@
 .pagination button {
   padding: .25rem .5rem;
   margin: .25rem 0;
-  font-size: .625rem;
-  color: white;
-  background-color: #6c79db;
-  border: none;
-  border-radius: 1rem;
+  border: 2px solid #a21220;
+  background-color: #a21232;
+  width: 150px;
+  border-radius: 2rem;
+}
+.pagination button:hover {
+  background-color: #a21220;
 }

@@ -1,7 +1,7 @@
-<h2 align="center"> Pokédex </h2>
+<p align="center"><img height="80em" src="./assets/pokedex-logo.png"> </p>
 
 <p align="center">
-Desenvolvido durante o início de 2023 com foco no aprendizado da linguagem JavaScript e para fortalecer ainda mais minhas habilidades técnicas 🚀⚡. <br/>
+Desenvolvido durante março/abril de 2023 com foco no aprendizado da linguagem JavaScript e para fortalecer ainda mais minhas habilidades técnicas 🚀⚡. <br/>
 </p>
 
 - [Overview](#overview)
@@ -45,7 +45,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- Git e Github
+- API REST
+- Git/Github
 
 ### Continuar o desenvolvimento
 Pretendo adicionar um elemento search-box para fazer a pesquisa e filtragem das informações/dados do CRUD.
