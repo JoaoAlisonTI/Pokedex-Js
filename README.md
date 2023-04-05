@@ -33,7 +33,7 @@ CRUD (Create, Read, Update, Delete) é um acrônimo para as maneiras de se opera
 </p>
 
 ### Links
-- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/CRUD-JavaScript/)
+- [Acesse o projeto finalizado, online ☁️](https://joaoalisonti.github.io/Pokedex-Js/)
 
 </br>
 

@@ -3,12 +3,11 @@
   font-family: "Roboto", Sans-Serif;
 }
 body {
-  background-color: #f6f8fc;
+  background-color: #1a1831;
 }
 .content {
   width: 100vw; 
   padding: 1rem; 
-  background-color: #1a1831;
 }
 .logo {
   height: 100px;
