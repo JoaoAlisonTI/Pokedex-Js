@@ -1,6 +1,6 @@
 const pokemonList = document.getElementById('pokemonsList');
 const loadMoreButton = document.getElementById('loadMore')
-const maxRecords = 151
+const maxRecords = 200
 /*151 = 1° geração de pokemons*/
 const limit = 10
 let offset = 0

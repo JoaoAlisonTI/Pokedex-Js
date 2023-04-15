@@ -121,9 +121,10 @@
   margin: .25rem 0;
   border: 2px solid #a21220;
   background-color: #a21232;
-  width: 150px;
+  width: 160px;
   border-radius: 2rem;
+  cursor: pointer;
 }
 .pagination button:hover {
-  background-color: #a21220;
+  background-color: #a21210;
 }
